@@ -10,7 +10,7 @@ Majorly into sports, meteorology, and history
 Love animals and am a proud dog dad of Copper, a precious rescue mutt
 
 I'm strongest in CSS (Tailwind, ReactBootstrap as well) and am always branching out to discover more things.
-Studied Javascript (React, Express, Node) the most, also versed in Python (Django) and teaching myself C#
+Studied Javascript (React, Express, Node, PhaserJS) the most, also versed in Python (Django), MongoDB, PostSQL, and currently teaching myself C#
 
 
 <h2> 📫 Contact Me! </h2>
